@@ -10,4 +10,4 @@ const pool = new Pool({
     port: 5432,
     database: 'jwt_tutorial'
 })
-module.exports = pool;
+module.exports = pool; 
